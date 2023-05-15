@@ -8,4 +8,5 @@ tensorflow
 scipy
 catboost
 xgboost
+dill
 -e .
